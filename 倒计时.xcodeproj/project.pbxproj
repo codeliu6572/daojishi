@@ -14,6 +14,7 @@
 		E4224CC11B69B7A300252808 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4224CC01B69B7A300252808 /* Images.xcassets */; };
 		E4224CC41B69B7A300252808 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4224CC21B69B7A300252808 /* LaunchScreen.xib */; };
 		E4224CD01B69B7A300252808 /* ___Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = E4224CCF1B69B7A300252808 /* ___Tests.m */; };
+		E4224CDA1B69BD4300252808 /* bg_send_validate_code.png in Resources */ = {isa = PBXBuildFile; fileRef = E4224CD91B69BD4300252808 /* bg_send_validate_code.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		E4224CC91B69B7A300252808 /* 倒计时Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "倒计时Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4224CCE1B69B7A300252808 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4224CCF1B69B7A300252808 /* ___Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "___Tests.m"; sourceTree = "<group>"; };
+		E4224CD91B69BD4300252808 /* bg_send_validate_code.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_send_validate_code.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				E4224CB81B69B7A300252808 /* AppDelegate.m */,
 				E4224CBA1B69B7A300252808 /* ViewController.h */,
 				E4224CBB1B69B7A300252808 /* ViewController.m */,
+				E4224CD91B69BD4300252808 /* bg_send_validate_code.png */,
 				E4224CBD1B69B7A300252808 /* Main.storyboard */,
 				E4224CC01B69B7A300252808 /* Images.xcassets */,
 				E4224CC21B69B7A300252808 /* LaunchScreen.xib */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4224CBF1B69B7A300252808 /* Main.storyboard in Resources */,
+				E4224CDA1B69BD4300252808 /* bg_send_validate_code.png in Resources */,
 				E4224CC41B69B7A300252808 /* LaunchScreen.xib in Resources */,
 				E4224CC11B69B7A300252808 /* Images.xcassets in Resources */,
 			);
